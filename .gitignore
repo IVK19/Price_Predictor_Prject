@@ -1,0 +1,7 @@
+key
+key.pub
+.idea/
+*venv/
+*.pyc
+db.*
+__pycache__/
